@@ -46,4 +46,4 @@ PPA_2024_2027_MIN_obj_espec <- read_excel("PPA 2024-2027-DINTER-26jun2023.xls",
 PPA_2024_2027_orgao <- read_excel("PPA 2024-2027-DINTER-26jun2023.xls", 
                                   sheet = "Órgão")
 
-
+##TESTE GIT
